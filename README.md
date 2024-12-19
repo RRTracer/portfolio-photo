@@ -110,3 +110,9 @@ Aux **Invalides**, ce jour est marqué par des cérémonies et des événements 
     </tr>
   </table>
 </div>
+
+## Licences : **CC BY 4.0**
+
+Ce projet est sous licence **CC BY 4.0** . (Voir le document LICENCE)
+
+https://creativecommons.org/licenses/by/4.0/
